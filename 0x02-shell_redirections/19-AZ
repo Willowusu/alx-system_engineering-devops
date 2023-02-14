@@ -1,0 +1,2 @@
+#!/bin/bash
+tr '$string' | tr 'Ac' 'Ze'
